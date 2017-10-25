@@ -1,0 +1,156 @@
+{"frames": {
+
+"ani_bonus1_ppl_kicked_a_1.png":
+{
+	"frame": {"x":320,"y":1,"w":310,"h":503},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":135,"w":310,"h":503},
+	"sourceSize": {"w":333,"h":638},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"ani_bonus1_ppl_kicked_a_2.png":
+{
+	"frame": {"x":942,"y":1,"w":307,"h":473},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":165,"w":307,"h":473},
+	"sourceSize": {"w":333,"h":638},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"ani_bonus1_ppl_kicked_a_3.png":
+{
+	"frame": {"x":1,"y":1181,"w":305,"h":427},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":211,"w":305,"h":427},
+	"sourceSize": {"w":333,"h":638},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"ani_bonus1_ppl_kicked_a_4.png":
+{
+	"frame": {"x":1250,"y":1,"w":305,"h":445},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":193,"w":305,"h":445},
+	"sourceSize": {"w":333,"h":638},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"ani_bonus1_ppl_kicked_a_5.png":
+{
+	"frame": {"x":1220,"y":1069,"w":248,"h":511},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":71,"y":122,"w":248,"h":511},
+	"sourceSize": {"w":333,"h":638},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"ani_bonus1_ppl_kicked_a_6.png":
+{
+	"frame": {"x":268,"y":587,"w":280,"h":557},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":64,"w":280,"h":557},
+	"sourceSize": {"w":333,"h":638},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"ani_bonus1_ppl_kicked_a_7.png":
+{
+	"frame": {"x":1,"y":1,"w":318,"h":585},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":41,"w":318,"h":585},
+	"sourceSize": {"w":333,"h":638},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"ani_bonus1_ppl_kicked_a_8.png":
+{
+	"frame": {"x":1,"y":587,"w":266,"h":593},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":51,"y":9,"w":266,"h":593},
+	"sourceSize": {"w":333,"h":638},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"ani_bonus1_ppl_kicked_a_9.png":
+{
+	"frame": {"x":549,"y":505,"w":262,"h":595},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":60,"y":0,"w":262,"h":595},
+	"sourceSize": {"w":333,"h":638},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"ani_bonus1_ppl_kicked_a_10.png":
+{
+	"frame": {"x":1084,"y":475,"w":259,"h":593},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":58,"y":0,"w":259,"h":593},
+	"sourceSize": {"w":333,"h":638},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"ani_bonus1_ppl_kicked_a_11.png":
+{
+	"frame": {"x":812,"y":505,"w":271,"h":569},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":44,"y":37,"w":271,"h":569},
+	"sourceSize": {"w":333,"h":638},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"ani_bonus1_ppl_kicked_a_12.png":
+{
+	"frame": {"x":1344,"y":447,"w":261,"h":568},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":48,"y":61,"w":261,"h":568},
+	"sourceSize": {"w":333,"h":638},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"ani_bonus1_ppl_kicked_a_13.png":
+{
+	"frame": {"x":613,"y":1101,"w":300,"h":506},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":132,"w":300,"h":506},
+	"sourceSize": {"w":333,"h":638},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"ani_bonus1_ppl_kicked_a_14.png":
+{
+	"frame": {"x":914,"y":1075,"w":305,"h":452},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":186,"w":305,"h":452},
+	"sourceSize": {"w":333,"h":638},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"ani_bonus1_ppl_kicked_a_15.png":
+{
+	"frame": {"x":307,"y":1145,"w":305,"h":457},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":181,"w":305,"h":457},
+	"sourceSize": {"w":333,"h":638},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"ani_bonus1_ppl_kicked_a_16.png":
+{
+	"frame": {"x":631,"y":1,"w":310,"h":503},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":23,"y":135,"w":310,"h":503},
+	"sourceSize": {"w":333,"h":638},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "bruceLee.png",
+	"format": "RGBA8888",
+	"size": {"w":1609,"h":1609},
+	"scale": "0.83333",
+	"smartupdate": "$TexturePacker:SmartUpdate:03a14e033f2c5592b21f38ef73c9fd71:c640f72585fc146a1348dc9295695bb4:25d9734e98e791c2c8854c7eb80038f5$"
+}
+}
