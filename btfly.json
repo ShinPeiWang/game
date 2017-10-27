@@ -1,0 +1,57 @@
+{"frames": {
+
+"five.png":
+{
+	"frame": {"x":149,"y":1,"w":132,"h":155},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":9,"w":132,"h":155},
+	"sourceSize": {"w":172,"h":170},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"four.png":
+{
+	"frame": {"x":1,"y":1,"w":147,"h":164},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":0,"w":147,"h":164},
+	"sourceSize": {"w":172,"h":170},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"one.png":
+{
+	"frame": {"x":160,"y":134,"w":168,"h":64},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":106,"w":168,"h":64},
+	"sourceSize": {"w":172,"h":170},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"three.png":
+{
+	"frame": {"x":1,"y":166,"w":158,"h":140},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":24,"w":158,"h":140},
+	"sourceSize": {"w":172,"h":170},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"two.png":
+{
+	"frame": {"x":160,"y":134,"w":168,"h":64},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":106,"w":168,"h":64},
+	"sourceSize": {"w":172,"h":170},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "btfly.png",
+	"format": "RGBA8888",
+	"size": {"w":307,"h":307},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:b3dbea1f9eac18a37dbe05adb29fae1f:56564376c972c4fa6f93f70ad8c662f8:080703fd1b45f70726f0f46dcb057196$"
+}
+}
